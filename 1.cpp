@@ -1,3 +1,4 @@
+// ini menggunakan bahasa c++
 #include <iostream>
 #include <conio.h>
 #include <iomanip>
