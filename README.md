@@ -1,7 +1,9 @@
 # codingcpptugasUas
 ini adalah coding saya aowkawok
 
-![greetings](/Other/code.png)
+![greetings](/other/code.png)
+
+
 
 jadi harap maklum ya man teman oawkwakoaw
 kadang pernah gk sih mikir
